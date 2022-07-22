@@ -1,0 +1,10 @@
+[{"id":1,"number_account":"5134749061039087","balance":"$9.91","account_type":"Epargne","currency":"Ruble"},
+{"id":2,"number_account":"3551786274159012","balance":"$4.67","account_type":"Epargne","currency":"Peso"},
+{"id":3,"number_account":"6762738856183123150","balance":"$4.09","account_type":"Courant","currency":"Yuan Renminbi"},
+{"id":4,"number_account":"3549342529211235","balance":"$1.03","account_type":"Courant","currency":"Lari"},
+{"id":5,"number_account":"3575735465702801","balance":"$3.26","account_type":"Epargne","currency":"Real"},
+{"id":6,"number_account":"3534823259166688","balance":"$9.61","account_type":"Courant","currency":"Hryvnia"},
+{"id":7,"number_account":"3580024914241247","balance":"$9.57","account_type":"Courant","currency":"Ringgit"},
+{"id":8,"number_account":"3536131012868394","balance":"$5.93","account_type":"Courant","currency":"Real"},
+{"id":9,"number_account":"201849435870008","balance":"$2.07","account_type":"Courant","currency":"Rupiah"},
+{"id":10,"number_account":"501824648963099723","balance":"$1.69","account_type":"Epargne","currency":"Ariary"}]
